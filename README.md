@@ -4,9 +4,9 @@ This is a simulation program that demonstrates the principles of paging and segm
 
 <h2>Installation</h2>
 
-Clone the repository: 
-    
-    	git clone https://github.com/HarunSMetin/Paging-Segmentation-and-Memory-Management-Simulation.git
+Clone the repository:
+	
+	git clone https://github.com/HarunSMetin/Paging-Segmentation-and-Memory-Management-Simulation.git
     
 Navigate to the project directory: 
   
